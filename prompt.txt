@@ -1,0 +1,50 @@
+1. Initial Project Request
+Date (UTC): 2026-06-01T03:20:22Z (Local Time: 08:50:22)
+Prompt:
+Write a 2d graphics editor using * and _.
+
+Write functions to draw a circle, rectangle, line, triangle.
+You should be able to: add objects to the picture, delete objects from the picture, and modify objects in the picture.
+Use a 2d array of characters to store the picture.
+Write function to display the picture.
+Additionally you can use ncurses package to create menus and draw picture.
+
+2. Language Selection
+Date (UTC): 2026-06-01T03:20:56Z (Local Time: 08:50:56)
+Prompt:
+make the project in c
+
+3. Execution Request
+Date (UTC): 2026-06-01T03:22:15Z (Local Time: 08:52:15)
+Prompt:
+give me the complete code but the code consise
+
+4. Portability / Mac Terminal Bug
+Date (UTC): 2026-06-01T03:31:55Z (Local Time: 09:01:55)
+Prompt:
+give me a code which will work and run on mac terminal. it should be in c language. the code which u gave before isnt working on my mac terminal
+
+5. Running Screenshot / Terminal Output
+Date (UTC): 2026-06-01T03:36:02Z (Local Time: 09:06:02)
+Prompt:
+(Pasted terminal screenshot of the editor displaying canvas with Rectangle a on row 11 and listing shapes active: Rectangle and Circle)
+
+6. Circle Drawing Bug Report
+Date (UTC): 2026-06-01T03:36:21Z (Local Time: 09:06:21)
+Prompt:
+no. it is not displaying the circle
+
+7. Curses menu requirement
+Date (UTC): 2026-06-01T03:40:41Z (Local Time: 09:10:41)
+Prompt:
+now Additionally you can use ncurses package to create menus and draw picture.
+
+8. Color Feature Request
+Date (UTC): 2026-06-01T03:45:01Z (Local Time: 09:15:01)
+Prompt:
+also now add an option to choose colour while printing
+
+9. Vector Zoom Request
+Date (UTC): 2026-06-01T03:49:33Z (Local Time: 09:19:33)
+Prompt:
+also add zoom in and zoom out
